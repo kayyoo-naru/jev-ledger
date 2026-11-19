@@ -1,0 +1,60 @@
+date,account,description,amount,my_label
+2026-08-01,Chase Checking ••0001,ZELLE PAYMENT TO MAPLE PROPERTY MGMT RENT AUG,-2600.0,Housing
+2026-08-05,Chase credit card ••0003,COMCAST XFINITY 800-266-2278 PA,-79.99,Utilities & phone
+2026-08-09,Chase credit card ••0003,TRADER JOE'S #236 SAN FRANCISCO CA,-84.12,Groceries
+2026-08-10,Chase credit card ••0003,NETFLIX.COM LOS GATOS CA,-15.49,Subscriptions & software
+2026-08-11,Chase credit card ••0003,SQ *SIGHTGLASS COFFEE San Francisco CA,-6.75,Dining & coffee
+2026-08-12,Chase credit card ••0003,SPOTIFY USA NEW YORK NY,-11.99,Subscriptions & software
+2026-08-14,Chase credit card ••0003,UBER *TRIP HELP.UBER.COM CA,-23.4,Transport
+2026-08-15,Chase Checking ••0001,ACME LABS INC PAYROLL PPD ID: 9100000001,3850.0,Salary & wages
+2026-08-16,Chase Checking ••0001,Online Transfer To Sav ...0002,-1000.0,Transfer between own accounts
+2026-08-16,Chase Savings ••0002,Online Transfer From Chk ...0001,1000.0,Transfer between own accounts
+2026-08-18,Chase credit card ••0003,ANTHROPIC* CLAUDE SUB ANTHROPIC.COM CA,-20.0,Subscriptions & software
+2026-08-19,Chase credit card ••0003,WALGREENS #7043 SAN FRANCISCO CA,-18.36,Health & fitness
+2026-08-20,Chase Checking ••0001,Payment To Chase Card Ending IN 0003,-1240.0,Transfer between own accounts
+2026-08-20,Chase credit card ••0003,Payment Thank You-Mobile,1240.0,Transfer between own accounts
+2026-08-21,Chase credit card ••0003,BH* BETTERHELP BETTERHELP.CO CA,-65.0,Health & fitness
+2026-08-22,Chase credit card ••0003,AMERICAN RED CROSS DONATION,-100.0,Gifts & giving
+2026-08-24,Chase credit card ••0003,SWEETGREEN MISSION SAN FRANCISCO CA,-16.85,Dining & coffee
+2026-08-27,Chase credit card ••0003,AMAZON MKTPL*2K81J0 AMZN.COM/BILL WA,-46.2,Shopping
+2026-08-28,Chase Savings ••0002,INTEREST PAYMENT,13.6,Interest & dividends
+2026-08-29,Chase credit card ••0003,CLIPPER TRANSIT FARE SAN FRANCISCO CA,-20.0,Transport
+2026-09-01,Chase Checking ••0001,ZELLE PAYMENT TO MAPLE PROPERTY MGMT RENT SEP,-2600.0,Housing
+2026-09-03,Chase Checking ••0001,CLIENT ACH PMT NORTHWIND STUDIO PPD ID: 9200000002,2400.0,Contract & freelance income
+2026-09-05,Chase credit card ••0003,COMCAST XFINITY 800-266-2278 PA,-79.99,Utilities & phone
+2026-09-06,Chase credit card ••0003,WHOLE FOODS MARKET #10 SAN FRANCISCO CA,-112.48,Groceries
+2026-09-09,Chase credit card ••0003,"REPLIT, INC. REPLIT.COM CA",-20.0,Business & work costs
+2026-09-10,Chase credit card ••0003,NETFLIX.COM LOS GATOS CA,-15.49,Subscriptions & software
+2026-09-11,Chase credit card ••0003,GOOGLE *Workspace cc@google.com CA,-14.4,Business & work costs
+2026-09-12,Chase credit card ••0003,SPOTIFY USA NEW YORK NY,-11.99,Subscriptions & software
+2026-09-13,Chase credit card ••0003,SQ *BLUE BOTTLE COFFEE San Francisco CA,-7.25,Dining & coffee
+2026-09-15,Chase Checking ••0001,ACME LABS INC PAYROLL PPD ID: 9100000001,3850.0,Salary & wages
+2026-09-17,Chase credit card ••0003,DELTA AIR LINES 0062345678901 ATLANTA GA,-412.6,Travel
+2026-09-18,Chase credit card ••0003,ANTHROPIC* CLAUDE SUB ANTHROPIC.COM CA,-20.0,Subscriptions & software
+2026-09-20,Chase Checking ••0001,Payment To Chase Card Ending IN 0003,-1655.37,Transfer between own accounts
+2026-09-20,Chase credit card ••0003,Payment Thank You-Mobile,1655.37,Transfer between own accounts
+2026-09-21,Chase credit card ••0003,BH* BETTERHELP BETTERHELP.CO CA,-65.0,Health & fitness
+2026-09-24,Chase credit card ••0003,MARRIOTT SEATTLE DOWNTOWN SEATTLE WA,-538.12,Travel
+2026-09-26,Chase credit card ••0003,SFMOMA SAN FRANCISCO CA,-30.0,Entertainment & hobbies
+2026-09-28,Chase Checking ••0001,MONTHLY SERVICE FEE,-15.0,Fees & interest
+2026-09-28,Chase Savings ••0002,INTEREST PAYMENT,13.9,Interest & dividends
+2026-10-01,Chase Checking ••0001,ZELLE PAYMENT TO MAPLE PROPERTY MGMT RENT OCT,-2600.0,Housing
+2026-10-02,Chase Checking ••0001,Online Transfer From Sav ...0002,2000.0,Transfer between own accounts
+2026-10-02,Chase Savings ••0002,Online Transfer To Chk ...0001,-2000.0,Transfer between own accounts
+2026-10-04,Chase credit card ••0003,TRADER JOE'S #236 SAN FRANCISCO CA,-91.77,Groceries
+2026-10-05,Chase credit card ••0003,COMCAST XFINITY 800-266-2278 PA,-79.99,Utilities & phone
+2026-10-08,Chase Checking ••0001,ZELLE PAYMENT TO J SMITH,-1200.0,Gifts & giving
+2026-10-10,Chase credit card ••0003,NETFLIX.COM LOS GATOS CA,-15.49,Subscriptions & software
+2026-10-11,Chase credit card ••0003,STATE BIRD PROVISIONS SAN FRANCISCO CA,-286.4,Dining & coffee
+2026-10-12,Chase credit card ••0003,SPOTIFY USA NEW YORK NY,-11.99,Subscriptions & software
+2026-10-14,Chase credit card ••0003,APPLE STORE #R075 SAN FRANCISCO CA,-129.0,Shopping
+2026-10-15,Chase Checking ••0001,ACME LABS INC PAYROLL PPD ID: 9100000001,3850.0,Salary & wages
+2026-10-16,Chase credit card ••0003,THE UPS STORE 0051 SAN FRANCISCO CA,-38.5,Business & work costs
+2026-10-18,Chase credit card ••0003,ANTHROPIC* CLAUDE SUB ANTHROPIC.COM CA,-20.0,Subscriptions & software
+2026-10-19,Chase credit card ••0003,SF LAUNDROMAT SAN FRANCISCO CA,-11.5,Personal care & services
+2026-10-21,Chase credit card ••0003,BH* BETTERHELP BETTERHELP.CO CA,-65.0,Health & fitness
+2026-10-22,Chase credit card ••0003,ANNUAL MEMBERSHIP FEE,-95.0,Fees & interest
+2026-10-25,Chase credit card ••0003,LYFT *RIDE SAN FRANCISCO CA,-18.9,Transport
+2026-10-28,Chase Savings ••0002,INTEREST PAYMENT,14.2,Interest & dividends
+2026-10-30,Chase Checking ••0001,Payment To Chase Card Ending IN 0003,-1480.0,Transfer between own accounts
+2026-10-30,Chase Checking ••0001,ZELLE PAYMENT FROM A LEE DINNER,45.0,Other income
